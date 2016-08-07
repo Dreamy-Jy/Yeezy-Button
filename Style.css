@@ -1,0 +1,20 @@
+		/* {
+    		margin: 0;
+    		padding: 0;
+    		border: 0;
+    		outline: 0;
+    		font-size: 100%;
+    		vertical-align: baseline;
+    		background: transparent;
+    		text-align: center;
+		}*/
+
+		button{
+			background-color: #9932CC;
+			color: white;
+			border: none;
+			/*text-align: center;*/
+			padding: 50px 50px;
+			border-radius: 100%
+		}
+
